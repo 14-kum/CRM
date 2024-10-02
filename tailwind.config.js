@@ -21,8 +21,8 @@ export default {
       'gray': '#EFEFEF',
       'gray-light': '#F8F8F8',
       'black': '#000000',
-      'white': 'FFFFFF',
-      
+      'white': '#FFFFFF',
+      'gray-color': '#666666'
     },
     extend: {
       fontSize: {
